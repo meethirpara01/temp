@@ -38,5 +38,5 @@ form.addEventListener("submit", function (dets) {
         if (inp.type != "submit") {
             inp.value = "";
         }
-    })
-})
+    });
+});
